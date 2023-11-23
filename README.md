@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Estrondio
+- 👋 Hi, I’m João Morais aka @Estrondio
 - 👀 I’m interested in Neuroscience
-- 🌱 I’m currently learning python and electrophysiology
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me estrondio@gmail.com
+- 🌱 I’m currently exploring Reinforcement Learning and neural networks.
 
 <!---
 Estrondio/Estrondio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
